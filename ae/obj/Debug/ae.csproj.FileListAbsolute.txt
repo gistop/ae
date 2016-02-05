@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2012\Projects\ae\ae\bin\Debug\ae.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\ae\ae\bin\Debug\ae.exe
+c:\users\administrator\documents\visual studio 2012\Projects\ae\ae\bin\Debug\ae.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\ae\ae\obj\Debug\ae.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\ae\ae\obj\Debug\ae.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\ae\ae\obj\Debug\ae.exe
+c:\users\administrator\documents\visual studio 2012\Projects\ae\ae\obj\Debug\ae.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\ae\ae\obj\Debug\ae.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\ae\ae\obj\Debug\ae.MainForm.resources
+c:\users\administrator\documents\visual studio 2012\Projects\ae\ae\obj\Debug\ae.CenterForm.resources
