@@ -23,9 +23,10 @@ namespace ae
         {
             InitializeComponent();
 
-            //attributionform.Show(dockPanel2);
-            //layoutForm.Show(dockPanel2);
-            //mapForm.Show(dockPanel2);
+            attributionform.Show(dockPanel2, DockState.DockBottom);
+            mapForm.Show(dockPanel2);
+            layoutForm.Show(dockPanel2);
+            
         }
     }
 }

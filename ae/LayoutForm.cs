@@ -7,10 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WeifenLuo.WinFormsUI.Docking;
 
 namespace ae
 {
-    public partial class LayoutForm : Form
+    public partial class LayoutForm : DockContent
     {
         public LayoutForm()
         {
